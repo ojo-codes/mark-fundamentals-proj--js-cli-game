@@ -31,7 +31,13 @@ You have learned [how to read and extend the code for a **JavaScript CLI game**]
 
 ## Exercise 1: Setting the acceptance criteria
 
-**Success criterion:** an `acceptance-criteria.md` file which specifies the [acceptance criteria](https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices) of your game
+**Success criterion:** an `acceptance-criteria.md` file which specifies the acceptance criteria of your game
+
+Acceptance criteria are used in software engineering to help elicit requirements and provide an easy way of confirming that requirements are met. (You can [read more about acceptance criteria in this article](https://www.altexsoft.com/blog/business/acceptance-criteria-purposes-formats-and-best-practices).)
+
+What are the acceptance criteria for your game to be considered a successful JavaScript port?
+
+Create an `acceptance-criteria.md` file in the root of this directory which specifies them.
 
 ## Exercise 2: Porting your game
 
