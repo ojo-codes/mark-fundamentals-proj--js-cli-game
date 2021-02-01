@@ -38,7 +38,7 @@ Play a few games to get the hang of how the game behaves.
 
 For those after a challenge, start from the original code and refactor it yourself before continuing. Otherwise, look at the code in the refactored version. Document your reflections on the game.
 
-When we translate this game to JavaScript, we will be focussing on a slightly simplified version by removing the effects of the `difficulty` (i.e. we will make the game always show the jumbled word indefinitely, without the `poof` of it disapearing in later categories). Begin by removing this feature from the python version.
+If you start from the original code, then please simplify it whilst refactoring: remove the effects of `difficulty` (we want it to always show the jumbled word indefinitely, without the it disapearing after a timer in later categories).
 
 ## Exercise 1: Setting the acceptance criteria
 
@@ -61,7 +61,7 @@ It does not need to be an exact translation:
 - you might choose to reorganise the code or logic as you port the game over
 Play a few games and check it behaves as you would expect.
 
-We recommend using `prompt-sync`as it does not require callback functions. A comparison of options can be found [here](https://www.codecademy.com/articles/getting-user-input-in-node-js). Remember to add a relevant gitignore file so that the entirety of this package is not included in your repository.
+Clone this repo for the boiler plate - including the `readline-sync` dependency for digesting command line inputs.
 
 ### Extension 1: Improve the logging info
 
